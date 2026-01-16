@@ -43,7 +43,7 @@ online_mode: false
 forge_support: true
 disabled_commands:
 - disabledcommandhere
-servers:
+servers:DiddyXeno.aternos.me:53350
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
     address: localhost:25565
